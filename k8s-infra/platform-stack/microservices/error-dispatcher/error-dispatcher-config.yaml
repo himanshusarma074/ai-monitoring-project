@@ -75,7 +75,7 @@
       spec:
         containers:
         - name: error-dispatcher
-          image: himanshusarma123/ai-monitoring-service-error_dispatcher:e3cda55
+          image: himanshusarma123/ai-monitoring-service-error_dispatcher:7440a59
           ports:
           - containerPort: 8000
     strategy:
